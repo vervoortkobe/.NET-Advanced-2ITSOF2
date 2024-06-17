@@ -1,0 +1,17 @@
+public static class MyExtensions
+{
+    public static bool IsGreaterThan(this int x, int y)
+    {
+        return x > y;
+    }
+}
+
+static void Main(string[] args)
+{
+    int i = 7, j = 6;
+    
+    Console.WriteLine(i.IsGreaterThan(j));
+    j = 8;
+    Console.WriteLine(i.IsGreaterThan(j));
+    Console.ReadLine();
+}

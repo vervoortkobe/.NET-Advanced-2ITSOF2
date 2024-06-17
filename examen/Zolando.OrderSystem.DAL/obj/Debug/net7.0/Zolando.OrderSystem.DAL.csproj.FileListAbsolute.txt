@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\Downloads\examen\Zolando.OrderSystem.DAL\bin\Debug\net7.0\Zolando.OrderSystem.DAL.deps.json
+C:\Users\Gebruiker\Downloads\examen\Zolando.OrderSystem.DAL\bin\Debug\net7.0\Zolando.OrderSystem.DAL.dll
+C:\Users\Gebruiker\Downloads\examen\Zolando.OrderSystem.DAL\bin\Debug\net7.0\Zolando.OrderSystem.DAL.pdb
+C:\Users\Gebruiker\Downloads\examen\Zolando.OrderSystem.DAL\obj\Debug\net7.0\Zolando.OrderSystem.DAL.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\Downloads\examen\Zolando.OrderSystem.DAL\obj\Debug\net7.0\Zolando.OrderSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Downloads\examen\Zolando.OrderSystem.DAL\obj\Debug\net7.0\Zolando.OrderSystem.DAL.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Downloads\examen\Zolando.OrderSystem.DAL\obj\Debug\net7.0\Zolando.OrderSystem.DAL.AssemblyInfo.cs
+C:\Users\Gebruiker\Downloads\examen\Zolando.OrderSystem.DAL\obj\Debug\net7.0\Zolando.OrderSystem.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Downloads\examen\Zolando.OrderSystem.DAL\obj\Debug\net7.0\Zolando.OrderSystem.DAL.dll
+C:\Users\Gebruiker\Downloads\examen\Zolando.OrderSystem.DAL\obj\Debug\net7.0\refint\Zolando.OrderSystem.DAL.dll
+C:\Users\Gebruiker\Downloads\examen\Zolando.OrderSystem.DAL\obj\Debug\net7.0\Zolando.OrderSystem.DAL.pdb
+C:\Users\Gebruiker\Downloads\examen\Zolando.OrderSystem.DAL\obj\Debug\net7.0\ref\Zolando.OrderSystem.DAL.dll

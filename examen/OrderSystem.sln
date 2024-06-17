@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zolando.OrderSystem.API", "Zolando.OrderSystem.API\Zolando.OrderSystem.API.csproj", "{D7A55A0D-2F5E-47C1-BAED-0AA8F1BB7086}"
+	ProjectSection(ProjectDependencies) = postProject
+		{00955F3C-55A8-4AC9-8C08-986C3572D149} = {00955F3C-55A8-4AC9-8C08-986C3572D149}
+		{DA203D24-BFE7-43C6-952C-C4A3B11FA522} = {DA203D24-BFE7-43C6-952C-C4A3B11FA522}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zolando.OrderSystem.Unittesting", "Zolando.OrderSystem.Unittesting\Zolando.OrderSystem.Unittesting.csproj", "{8CBBD3A9-D357-477A-BD8B-99FB731BFAF7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zolando.OrderSystem.MVCApp", "Zolando.OrderSystem.MVCApp\Zolando.OrderSystem.MVCApp.csproj", "{EC84C815-492C-4CF9-9C81-0FD7FBFF1DA1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{DA203D24-BFE7-43C6-952C-C4A3B11FA522} = {DA203D24-BFE7-43C6-952C-C4A3B11FA522}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zolando.OrderSystem.BLL", "Zalando.OrderSystem.BLL\Zolando.OrderSystem.BLL.csproj", "{00955F3C-55A8-4AC9-8C08-986C3572D149}"
+	ProjectSection(ProjectDependencies) = postProject
+		{DA203D24-BFE7-43C6-952C-C4A3B11FA522} = {DA203D24-BFE7-43C6-952C-C4A3B11FA522}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zolando.OrderSystem.DAL", "Zolando.OrderSystem.DAL\Zolando.OrderSystem.DAL.csproj", "{DA203D24-BFE7-43C6-952C-C4A3B11FA522}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7A55A0D-2F5E-47C1-BAED-0AA8F1BB7086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7A55A0D-2F5E-47C1-BAED-0AA8F1BB7086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7A55A0D-2F5E-47C1-BAED-0AA8F1BB7086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7A55A0D-2F5E-47C1-BAED-0AA8F1BB7086}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CBBD3A9-D357-477A-BD8B-99FB731BFAF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CBBD3A9-D357-477A-BD8B-99FB731BFAF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CBBD3A9-D357-477A-BD8B-99FB731BFAF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CBBD3A9-D357-477A-BD8B-99FB731BFAF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC84C815-492C-4CF9-9C81-0FD7FBFF1DA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC84C815-492C-4CF9-9C81-0FD7FBFF1DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC84C815-492C-4CF9-9C81-0FD7FBFF1DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC84C815-492C-4CF9-9C81-0FD7FBFF1DA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00955F3C-55A8-4AC9-8C08-986C3572D149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00955F3C-55A8-4AC9-8C08-986C3572D149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00955F3C-55A8-4AC9-8C08-986C3572D149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00955F3C-55A8-4AC9-8C08-986C3572D149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA203D24-BFE7-43C6-952C-C4A3B11FA522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA203D24-BFE7-43C6-952C-C4A3B11FA522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA203D24-BFE7-43C6-952C-C4A3B11FA522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA203D24-BFE7-43C6-952C-C4A3B11FA522}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D05ED18F-18A6-44FD-808D-67D7DF8F48BB}
+	EndGlobalSection
+EndGlobal

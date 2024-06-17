@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DsgFYaX07OJ2yXuzlP8jpZrIa4bKm/a6t4UujBoI2n4=",
+  "Source": "AP.MyGameStore.WebAPI",
+  "BasePath": "_content/AP.MyGameStore.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

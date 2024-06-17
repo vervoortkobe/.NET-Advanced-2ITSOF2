@@ -1,0 +1,15 @@
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo9\opl_labo7\AP.Gamestore.BLL\bin\Debug\net5.0\AP.MyGameStore.BLL.deps.json
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo9\opl_labo7\AP.Gamestore.BLL\bin\Debug\net5.0\AP.MyGameStore.BLL.dll
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo9\opl_labo7\AP.Gamestore.BLL\bin\Debug\net5.0\AP.MyGameStore.BLL.pdb
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo9\opl_labo7\AP.Gamestore.BLL\bin\Debug\net5.0\AP.MyGameStore.DAL.dll
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo9\opl_labo7\AP.Gamestore.BLL\bin\Debug\net5.0\AP.MyGameStore.DAL.pdb
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo9\opl_labo7\AP.Gamestore.BLL\obj\Debug\net5.0\AP.MyGameStore.BLL.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo9\opl_labo7\AP.Gamestore.BLL\obj\Debug\net5.0\AP.MyGameStore.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo9\opl_labo7\AP.Gamestore.BLL\obj\Debug\net5.0\AP.MyGameStore.BLL.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo9\opl_labo7\AP.Gamestore.BLL\obj\Debug\net5.0\AP.MyGameStore.BLL.AssemblyInfo.cs
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo9\opl_labo7\AP.Gamestore.BLL\obj\Debug\net5.0\AP.MyGameStore.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo9\opl_labo7\AP.Gamestore.BLL\obj\Debug\net5.0\AP.MyGameStore.BLL.csproj.CopyComplete
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo9\opl_labo7\AP.Gamestore.BLL\obj\Debug\net5.0\AP.MyGameStore.BLL.dll
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo9\opl_labo7\AP.Gamestore.BLL\obj\Debug\net5.0\refint\AP.MyGameStore.BLL.dll
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo9\opl_labo7\AP.Gamestore.BLL\obj\Debug\net5.0\AP.MyGameStore.BLL.pdb
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo9\opl_labo7\AP.Gamestore.BLL\obj\Debug\net5.0\ref\AP.MyGameStore.BLL.dll

@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo10\labo8_model_oplossing\MyGameStore\AP.MyGameStore.DAL\bin\Debug\net7.0\AP.MyGameStore.DAL.deps.json
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo10\labo8_model_oplossing\MyGameStore\AP.MyGameStore.DAL\bin\Debug\net7.0\AP.MyGameStore.DAL.dll
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo10\labo8_model_oplossing\MyGameStore\AP.MyGameStore.DAL\bin\Debug\net7.0\AP.MyGameStore.DAL.pdb
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo10\labo8_model_oplossing\MyGameStore\AP.MyGameStore.DAL\obj\Debug\net7.0\AP.MyGameStore.DAL.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo10\labo8_model_oplossing\MyGameStore\AP.MyGameStore.DAL\obj\Debug\net7.0\AP.MyGameStore.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo10\labo8_model_oplossing\MyGameStore\AP.MyGameStore.DAL\obj\Debug\net7.0\AP.MyGameStore.DAL.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo10\labo8_model_oplossing\MyGameStore\AP.MyGameStore.DAL\obj\Debug\net7.0\AP.MyGameStore.DAL.AssemblyInfo.cs
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo10\labo8_model_oplossing\MyGameStore\AP.MyGameStore.DAL\obj\Debug\net7.0\AP.MyGameStore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo10\labo8_model_oplossing\MyGameStore\AP.MyGameStore.DAL\obj\Debug\net7.0\AP.MyGameStore.DAL.dll
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo10\labo8_model_oplossing\MyGameStore\AP.MyGameStore.DAL\obj\Debug\net7.0\refint\AP.MyGameStore.DAL.dll
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo10\labo8_model_oplossing\MyGameStore\AP.MyGameStore.DAL\obj\Debug\net7.0\AP.MyGameStore.DAL.pdb
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo10\labo8_model_oplossing\MyGameStore\AP.MyGameStore.DAL\obj\Debug\net7.0\ref\AP.MyGameStore.DAL.dll

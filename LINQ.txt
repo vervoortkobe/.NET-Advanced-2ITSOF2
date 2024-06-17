@@ -1,0 +1,18 @@
+var simpsons =  from simpson in GetSimpsons()
+                where simpson.FirstName.Length < 16
+                orderby simpson.FirstName.First(), simpson.LastName descending
+                select simpson;
+                
+                var simpsons =  GetSimpsons()
+                                .Where(s => s.FirstName.Length < 16)
+                                .OrderBy(s => s.FirstName.First())
+                                .ThenByDescending(s => s.LastName);
+                                
+                var simpsons =  from simpson in GetSimpsons()
+                                group simpson by simpson.FirstName[0];
+                
+                var simpsons =  GetSimpsons()
+                                .GroupBy(s => s.FirstName[0]);
+                                
+                var hockeyPlayers = from player in players
+                                    group player by new { player.Team, player.Position };

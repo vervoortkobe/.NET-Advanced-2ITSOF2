@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AP.MyGameStore.WebAPI.props" />
+</Project>

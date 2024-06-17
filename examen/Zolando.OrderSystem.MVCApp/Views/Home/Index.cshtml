@@ -1,0 +1,96 @@
+﻿@using Zolando.OrderSystem.DAL.Model;
+@model IEnumerable<Order>
+
+@{
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title">List of Orders </h5>
+                <!-- <div class="text-end">
+                    <a type="button" class="btn btn-success" asp-action="AddNew">Create new</a>
+                </div> -->
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">Id</th>
+                        <th scope="col">Datum</th>
+                        <th scope="col">Tijdstip</th>
+                        <th scope="col"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var o in Model.OrderBy(o => o.Date))
+                    {
+                        <tr>
+                            <td>
+                                @o.Id
+                            </td>
+                            <td>
+                                @o.Date
+                            </td>
+                            <td>
+                                @o.Date.TimeOfDay
+                            </td>
+                            <td>
+                                <a type="button" class="btn btn-primary delete-link" data-item-link="@o.Id">X</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+
+    <!-- Delete Confirmation Modal -->
+    <div class="modal fade" id="deleteConfirmationModal" tabindex="-1" role="dialog" aria-labelledby="deleteConfirmationModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="deleteConfirmationModalLabel">Confirmation</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    Are you sure you want to delete this item?
+                </div>
+                <div class="modal-footer">
+                    <form asp-action="Delete" id="frm1" method="post">
+                        @Html.AntiForgeryToken()
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
+                        <button id="deleteItemLink" type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+}
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        // Show the modal when the delete link is clicked
+        var deleteLinks = document.querySelectorAll(".delete-link");
+
+        deleteLinks.forEach(function (link) {
+            link.addEventListener("click", function (event) {
+                event.preventDefault();
+                var itemLink = link.getAttribute("data-item-link");
+                document.getElementById("frm1").setAttribute("action", document.getElementById("frm1").getAttribute("action") + "/" + itemLink)
+                document.getElementById("deleteConfirmationModal").classList.add("show");
+                document.getElementById("deleteConfirmationModal").style.display = "block";
+            });
+        });
+
+        // Hide the modal when the cancel button is clicked
+        var cancelButton = document.querySelector(".modal-footer .btn-secondary");
+        if (cancelButton) {
+            cancelButton.addEventListener("click", function () {
+                document.getElementById("deleteConfirmationModal").classList.remove("show");
+                document.getElementById("deleteConfirmationModal").style.display = "none";
+            });
+        }
+    });
+</script>

@@ -1,0 +1,15 @@
+C:\Users\Gebruiker\Downloads\examen\Zalando.OrderSystem.BLL\bin\Debug\net7.0\Zolando.OrderSystem.BLL.deps.json
+C:\Users\Gebruiker\Downloads\examen\Zalando.OrderSystem.BLL\bin\Debug\net7.0\Zolando.OrderSystem.BLL.dll
+C:\Users\Gebruiker\Downloads\examen\Zalando.OrderSystem.BLL\bin\Debug\net7.0\Zolando.OrderSystem.BLL.pdb
+C:\Users\Gebruiker\Downloads\examen\Zalando.OrderSystem.BLL\bin\Debug\net7.0\Zolando.OrderSystem.DAL.dll
+C:\Users\Gebruiker\Downloads\examen\Zalando.OrderSystem.BLL\bin\Debug\net7.0\Zolando.OrderSystem.DAL.pdb
+C:\Users\Gebruiker\Downloads\examen\Zalando.OrderSystem.BLL\obj\Debug\net7.0\Zolando.OrderSystem.BLL.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\Downloads\examen\Zalando.OrderSystem.BLL\obj\Debug\net7.0\Zolando.OrderSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Downloads\examen\Zalando.OrderSystem.BLL\obj\Debug\net7.0\Zolando.OrderSystem.BLL.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Downloads\examen\Zalando.OrderSystem.BLL\obj\Debug\net7.0\Zolando.OrderSystem.BLL.AssemblyInfo.cs
+C:\Users\Gebruiker\Downloads\examen\Zalando.OrderSystem.BLL\obj\Debug\net7.0\Zolando.OrderSystem.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Downloads\examen\Zalando.OrderSystem.BLL\obj\Debug\net7.0\Zolando.OrderSystem.BLL.csproj.CopyComplete
+C:\Users\Gebruiker\Downloads\examen\Zalando.OrderSystem.BLL\obj\Debug\net7.0\Zolando.OrderSystem.BLL.dll
+C:\Users\Gebruiker\Downloads\examen\Zalando.OrderSystem.BLL\obj\Debug\net7.0\refint\Zolando.OrderSystem.BLL.dll
+C:\Users\Gebruiker\Downloads\examen\Zalando.OrderSystem.BLL\obj\Debug\net7.0\Zolando.OrderSystem.BLL.pdb
+C:\Users\Gebruiker\Downloads\examen\Zalando.OrderSystem.BLL\obj\Debug\net7.0\ref\Zolando.OrderSystem.BLL.dll

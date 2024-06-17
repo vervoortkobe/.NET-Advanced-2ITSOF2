@@ -1,0 +1,56 @@
+﻿@using AP.MyGameStore.DAL.Model
+@model AddNewPersonModel
+
+@{
+    <form asp-action="AddNew" method="post">
+        @Html.AntiForgeryToken()
+        <div class="row">
+            <div class="col">
+                <label for="firstname" class="form-label">First name</label>
+                <input asp-for="Person.FirstName" type="text" class="form-control" id="firstname">
+            </div>
+            <div class="col">
+                <label for="lastname" class="form-label">Last name</label>
+                <input asp-for="Person.LastName" type="text" class="form-control" id="lastname">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <label for="exampleInputEmail1" class="form-label">Email address</label>
+                <input asp-for="Person.Email" type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <label for="phone" class="form-label">Mobile nr.</label>
+                <input asp-for="Person.MobilePhone" type="text" class="form-control" id="phone">
+            </div>
+            <div class="col">
+                <label for="birthdate" class="form-label">Birthdate</label>
+                <input asp-for="Person.BirthDate" type="text" class="form-control" id="birthdate">
+            </div>
+        </div>
+        <div class="row">
+            @foreach (Gender gender in Enum.GetValues(typeof(Gender)))
+            {
+                <div class="col form-check">
+                    <input type="radio" class="form-check-input" name="Model.Gender" value="@gender" />
+                    <label class="form-check-label">@gender</label>
+                </div>
+            }
+
+        </div>
+        <div class="row">
+            <select class="form-select" aria-label="Default select example" asp-for="Person.EmployerId">
+                <option selected>Employer</option>
+                @foreach(var s in Model.Employers)
+                {
+                    <option value="@s.Id">@s.Name</option>
+                }
+            </select>
+
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+}

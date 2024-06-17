@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mTezLbpzl4O0qM7+40RDcwyGyYd0+j4SaG9ZrHmwIlM=",
+  "Source": "Zolando.OrderSystem.API",
+  "BasePath": "_content/Zolando.OrderSystem.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

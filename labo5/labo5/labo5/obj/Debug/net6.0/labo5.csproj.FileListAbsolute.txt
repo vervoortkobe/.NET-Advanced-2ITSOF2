@@ -1,0 +1,14 @@
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo5\labo5\labo5\bin\Debug\net6.0\labo5.exe
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo5\labo5\labo5\bin\Debug\net6.0\labo5.deps.json
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo5\labo5\labo5\bin\Debug\net6.0\labo5.runtimeconfig.json
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo5\labo5\labo5\bin\Debug\net6.0\labo5.dll
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo5\labo5\labo5\bin\Debug\net6.0\labo5.pdb
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo5\labo5\labo5\obj\Debug\net6.0\labo5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo5\labo5\labo5\obj\Debug\net6.0\labo5.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo5\labo5\labo5\obj\Debug\net6.0\labo5.AssemblyInfo.cs
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo5\labo5\labo5\obj\Debug\net6.0\labo5.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo5\labo5\labo5\obj\Debug\net6.0\labo5.dll
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo5\labo5\labo5\obj\Debug\net6.0\refint\labo5.dll
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo5\labo5\labo5\obj\Debug\net6.0\labo5.pdb
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo5\labo5\labo5\obj\Debug\net6.0\labo5.genruntimeconfig.cache
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\labo5\labo5\labo5\obj\Debug\net6.0\ref\labo5.dll

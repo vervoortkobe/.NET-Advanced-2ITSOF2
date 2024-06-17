@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Zolando.OrderSystem.API.props" />
+</Project>
