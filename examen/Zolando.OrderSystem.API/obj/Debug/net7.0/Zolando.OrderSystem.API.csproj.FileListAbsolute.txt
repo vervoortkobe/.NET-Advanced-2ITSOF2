@@ -73,3 +73,14 @@ C:\Users\Gebruiker\Downloads\examen\Zolando.OrderSystem.API\obj\Debug\net7.0\ref
 C:\Users\Gebruiker\Downloads\examen\Zolando.OrderSystem.API\obj\Debug\net7.0\Zolando.OrderSystem.API.pdb
 C:\Users\Gebruiker\Downloads\examen\Zolando.OrderSystem.API\obj\Debug\net7.0\Zolando.OrderSystem.API.genruntimeconfig.cache
 C:\Users\Gebruiker\Downloads\examen\Zolando.OrderSystem.API\obj\Debug\net7.0\ref\Zolando.OrderSystem.API.dll
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\examen\Zolando.OrderSystem.API\obj\Debug\net7.0\Zolando.OrderSystem.API.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\examen\Zolando.OrderSystem.API\obj\Debug\net7.0\Zolando.OrderSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\examen\Zolando.OrderSystem.API\obj\Debug\net7.0\Zolando.OrderSystem.API.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\examen\Zolando.OrderSystem.API\obj\Debug\net7.0\Zolando.OrderSystem.API.AssemblyInfo.cs
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\examen\Zolando.OrderSystem.API\obj\Debug\net7.0\Zolando.OrderSystem.API.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\examen\Zolando.OrderSystem.API\obj\Debug\net7.0\Zolando.OrderSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\examen\Zolando.OrderSystem.API\obj\Debug\net7.0\Zolando.OrderSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\examen\Zolando.OrderSystem.API\obj\Debug\net7.0\Zolando.OrderSystem.API.sourcelink.json
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\examen\Zolando.OrderSystem.API\obj\Debug\net7.0\Zolando.OrderSystem.API.dll
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\examen\Zolando.OrderSystem.API\obj\Debug\net7.0\refint\Zolando.OrderSystem.API.dll
+C:\Users\Gebruiker\vervoortkobe\AP\2ITSOF2\.NET Adv\examen\Zolando.OrderSystem.API\obj\Debug\net7.0\Zolando.OrderSystem.API.pdb

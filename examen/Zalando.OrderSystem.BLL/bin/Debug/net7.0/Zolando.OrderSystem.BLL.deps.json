@@ -556,7 +556,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.12"
         },
         "runtime": {
-          "Zolando.OrderSystem.DAL.dll": {}
+          "Zolando.OrderSystem.DAL.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

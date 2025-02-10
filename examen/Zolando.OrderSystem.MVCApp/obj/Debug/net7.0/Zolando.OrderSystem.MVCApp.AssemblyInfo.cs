@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zolando.OrderSystem.MVCApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3913a6a69bea9fd90eb72933922ddd7d76906a35")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zolando.OrderSystem.MVCApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zolando.OrderSystem.MVCApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
